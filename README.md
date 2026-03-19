@@ -1,4 +1,5 @@
 # Security Scanner Bot
+This is a bot developed in Python for the LINE and Discord platforms. It scans for files and links sent in chat channels, connecting to the VirusTotal API to check against its threat database.
 
 ## Features
 
